@@ -7,7 +7,7 @@ Links to the static materials:
 - [Section 1-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-2_matplotlib.ipynb) matplotlib
 - [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section2_numpy_scipy_pandas.ipynb) numpy, scipy, pandas
 - [Section 3](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3_bokeh.ipynb) bokeh, blaze
-- [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/VTK_PV.pdf) VTK, ParaView
+- [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section4/VTK_PV.pdf) VTK, ParaView
 
 All notebooks have been created in 2.7 Python. The virtual machine has
 Python 2 and 3, and ParaView/VTK.
@@ -111,6 +111,6 @@ Links to the static materials:
 - [Section 1-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-2_matplotlib.ipynb) matplotlib
 - [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section2_numpy_scipy_pandas.ipynb) numpy, scipy, pandas
 - [Section 3](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3_bokeh.ipynb) bokeh, blaze
-- [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/VTK_PV.pdf) VTK, ParaView
+- [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section4/VTK_PV.pdf) VTK, ParaView
 
 
