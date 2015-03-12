@@ -1,4 +1,4 @@
-Python @ SIAM 2015 
+Python @ SIAM 2015
 =================
 
 Links to the static materials:
@@ -6,7 +6,8 @@ Links to the static materials:
 - [Section 1-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-1_ipython.ipynb) ipython
 - [Section 1-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-2_matplotlib.ipynb) matplotlib
 - [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section2_numpy_scipy_pandas.ipynb) numpy, scipy, pandas
-- [Section 3](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3_bokeh.ipynb) bokeh, blaze
+- [Section 3-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-1_blaze.ipynb) blaze
+- [Section 3-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-2_bokeh.ipynb) bokeh
 - [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section4/VTK_PV.pdf) VTK, ParaView
 
 All notebooks have been created in 2.7 Python. The virtual machine has
@@ -47,9 +48,9 @@ available on-site, or download it directly from the link below.
 
 *We are running a 64-bit Linux on the VM, which should work even if
  you are running a 32-bit OS, as long as you have a modern 64-bit
- processor.* 
+ processor.*
 
-Open the installer and go through the default installation to install 
+Open the installer and go through the default installation to install
 VirtualBox on your computer.
 
 If you have trouble installing, at this point, please use the below
@@ -67,7 +68,7 @@ it from the link below.
 
 Start VirtualBox, and in the main menu, go to "File->Import Appliance"
 
-Open the "pyvis64.ova" that is provided. Continue through the 
+Open the "pyvis64.ova" that is provided. Continue through the
 default options for the virtual machine.
 
 This will unpack and install the virtual machine on your computer.
@@ -79,13 +80,13 @@ links and follow along in a web browser.
 Step Three: Launch the Virtual Machine
 --------------------------------------
 
-In VirtualBox, in the virtual machine lists, open the new "pyvis64" virtual 
+In VirtualBox, in the virtual machine lists, open the new "pyvis64" virtual
 machine.  This will start Arch Linux in a virtual machine on your computer.
 
 It will automatically launch into an graphical session with two open
 terminals and a ipython notebook session.
 
-In case you happen to need it, the default user is "pyvis" with a 
+In case you happen to need it, the default user is "pyvis" with a
 password of "pyvis". It has sudo access, and the root password is "pyvis".
 
 If you have trouble installing, at this point, please use the below
@@ -98,7 +99,7 @@ Step Four: You're Ready!
 If all went well, a window should have launched in the browser on the VM,
 showing the ipython notebook interface.
 
-If you have trouble installing, at this point, please use the below 
+If you have trouble installing, at this point, please use the below
 links and follow along in a web browser.
 
 
@@ -112,5 +113,3 @@ Links to the static materials:
 - [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section2_numpy_scipy_pandas.ipynb) numpy, scipy, pandas
 - [Section 3](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3_bokeh.ipynb) bokeh, blaze
 - [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section4/VTK_PV.pdf) VTK, ParaView
-
-
