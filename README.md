@@ -111,5 +111,6 @@ Links to the static materials:
 - [Section 1-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-1_ipython.ipynb) ipython
 - [Section 1-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-2_matplotlib.ipynb) matplotlib
 - [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section2_numpy_scipy_pandas.ipynb) numpy, scipy, pandas
-- [Section 3](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3_bokeh.ipynb) bokeh, blaze
+- [Section 3-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-1_blaze.ipynb) blaze
+- [Section 3-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-2_bokeh.ipynb) bokeh
 - [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section4/VTK_PV.pdf) VTK, ParaView
