@@ -11,7 +11,7 @@ Links to the static materials:
 - [Section 4](https://github.com/JosephCottam/PythonSIAM2015/blob/master/VTK_PV.pdf?raw=true) VTK, ParaView
 
 All notebooks have been created in 2.7 Python. The virtual machine has
-Python 2 and 3, and ParaView/VTK.
+latest Anaconda Python and latest ParaView/VTK, as of March 12, 2015.
 
 Interactively following along in the tutorial
 ---------------------------------------------
@@ -26,7 +26,7 @@ and launched after you start the VM. We will have copies of the VM
 on USB drives, or you can download the VM directly from the web.
 
 *The virtual machine is available at:
- http://link.to.come/here*
+ https://drive.google.com/file/d/0BzyiUoirucJpTTB6WnNDV00wY0k/view?usp=sharing*
 
 *Virtualbox software download link is at:
  https://www.virtualbox.org/wiki/Downloads*
@@ -60,15 +60,15 @@ links and follow along in a web browser.
 Step Two: Open the Virtual Machine
 -----------------------------------------
 
-Copy pyvis64.ova from USB drives available on-site at SIAM or download
+Copy pyvis_siam_2015.ova from USB drives available on-site at SIAM or download
 it from the link below.
 
 *The virtual machine is available at:
- http://link.to.come/here*
+ https://drive.google.com/file/d/0BzyiUoirucJpTTB6WnNDV00wY0k/view?usp=sharing*
 
 Start VirtualBox, and in the main menu, go to "File->Import Appliance"
 
-Open the "pyvis64.ova" that is provided. Continue through the
+Open the "pyvis_siam_2015.ova" that is provided. Continue through the
 default options for the virtual machine.
 
 This will unpack and install the virtual machine on your computer.
@@ -80,7 +80,7 @@ links and follow along in a web browser.
 Step Three: Launch the Virtual Machine
 --------------------------------------
 
-In VirtualBox, in the virtual machine lists, open the new "pyvis64" virtual
+In VirtualBox, in the virtual machine lists, open the new virtual
 machine.  This will start Arch Linux in a virtual machine on your computer.
 
 It will automatically launch into an graphical session with two open
