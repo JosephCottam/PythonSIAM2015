@@ -8,7 +8,7 @@ Links to the static materials:
 - [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section2_numpy_scipy_pandas.ipynb) numpy, scipy, pandas
 - [Section 3-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-1_blaze.ipynb) blaze
 - [Section 3-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-2_bokeh.ipynb) bokeh
-- [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section4/VTK_PV.pdf) VTK, ParaView
+- [Section 4](https://github.com/JosephCottam/PythonSIAM2015/blob/master/VTK_PV.pdf?raw=true) VTK, ParaView
 
 All notebooks have been created in 2.7 Python. The virtual machine has
 Python 2 and 3, and ParaView/VTK.
