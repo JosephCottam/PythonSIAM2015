@@ -53,7 +53,7 @@ available on-site, or download it directly from the link below.
 Open the installer and go through the default installation to install
 VirtualBox on your computer.
 
-If you have trouble installing, at this point, please use the below
+If you have trouble installing, at this point, please use the above
 links and follow along in a web browser.
 
 
@@ -73,7 +73,7 @@ default options for the virtual machine.
 
 This will unpack and install the virtual machine on your computer.
 
-If you have trouble installing, at this point, please use the below
+If you have trouble installing, at this point, please use the above
 links and follow along in a web browser.
 
 
@@ -89,7 +89,7 @@ terminals and a ipython notebook session.
 In case you happen to need it, the default user is "pyvis" with a
 password of "pyvis". It has sudo access, and the root password is "pyvis".
 
-If you have trouble installing, at this point, please use the below
+If you have trouble installing, at this point, please use the above
 links and follow along in a web browser.
 
 
@@ -99,18 +99,18 @@ Step Four: You're Ready!
 If all went well, a window should have launched in the browser on the VM,
 showing the ipython notebook interface.
 
-If you have trouble installing, at this point, please use the below
+If you have trouble installing, at this point, please use the above
 links and follow along in a web browser.
 
 
-If you were unable to install successfully
-------------------------------------------
+Alternatively, install on your computer without VM
+--------------------------------------------------
 
-Links to the static materials:
-- [Section 0](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section0_intro.ipynb) Introduction
-- [Section 1-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-1_ipython.ipynb) ipython
-- [Section 1-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-2_matplotlib.ipynb) matplotlib
-- [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section2_numpy_scipy_pandas.ipynb) numpy, scipy, pandas
-- [Section 3-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-1_blaze.ipynb) blaze
-- [Section 3-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-2_bokeh.ipynb) bokeh
-- [Section 4](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section4/VTK_PV.pdf) VTK, ParaView
+Alternatively, if you can't get the VM to work, you can download
+Anaconda, ParaView, VTK & the materials:
+
+[Tutorial Materials](https://github.com/JosephCottam/PythonSIAM2015/archive/master.zip) https://github.com/JosephCottam/PythonSIAM2015/archive/master.zip
+[Anaconda Python](http://continuum.io/downloads) http://continuum.io/downloads
+[ParaView](http://www.paraview.org/download/) http://www.paraview.org/download/
+[VTK](http://www.vtk.org/VTK/resources/software.html) http://www.vtk.org/VTK/resources/software.html
+
