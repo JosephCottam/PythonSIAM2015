@@ -25,8 +25,7 @@ because everything will be prepackaged right from the start,
 and launched after you start the VM. We will have copies of the VM
 on USB drives, or you can download the VM directly from the web.
 
-*The virtual machine is available at:
- https://drive.google.com/file/d/0BzyiUoirucJpTTB6WnNDV00wY0k/view?usp=sharing*
+*The virtual machine is available at: http://goo.gl/V6Ryk0*
 
 *Virtualbox software download link is at:
  https://www.virtualbox.org/wiki/Downloads*
@@ -63,8 +62,7 @@ Step Two: Open the Virtual Machine
 Copy pyvis_siam_2015.ova from USB drives available on-site at SIAM or download
 it from the link below.
 
-*The virtual machine is available at:
- https://drive.google.com/file/d/0BzyiUoirucJpTTB6WnNDV00wY0k/view?usp=sharing*
+*The virtual machine is available at: http://goo.gl/V6Ryk0*
 
 Start VirtualBox, and in the main menu, go to "File->Import Appliance"
 
