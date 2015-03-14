@@ -109,8 +109,11 @@ Alternatively, install on your computer without VM
 Alternatively, if you can't get the VM to work, you can download
 Anaconda, ParaView, VTK & the materials:
 
-[Tutorial Materials](https://github.com/JosephCottam/PythonSIAM2015/archive/master.zip) https://github.com/JosephCottam/PythonSIAM2015/archive/master.zip
-[Anaconda Python](http://continuum.io/downloads) http://continuum.io/downloads
-[ParaView](http://www.paraview.org/download/) http://www.paraview.org/download/
-[VTK](http://www.vtk.org/VTK/resources/software.html) http://www.vtk.org/VTK/resources/software.html
+[Tutorial Materials](https://github.com/JosephCottam/PythonSIAM2015/archive/master.zip) -- https://github.com/JosephCottam/PythonSIAM2015/archive/master.zip
+
+[Anaconda Python](http://continuum.io/downloads) -- http://continuum.io/downloads
+
+[ParaView](http://www.paraview.org/download/) -- http://www.paraview.org/download/
+
+[VTK](http://www.vtk.org/VTK/resources/software.html) -- http://www.vtk.org/VTK/resources/software.html
 
