@@ -4,6 +4,11 @@ Python @ SIAM 2015
 Links to the static materials:
 - [Section 0](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section0_intro.ipynb) Introduction
 - [Section 1-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-1_ipython.ipynb) ipython
+    - Additional ipython links:
+        - https://github.com/barbagroup/CFDPython
+        - https://github.com/ketch/HyperPython
+        - https://github.com/barbagroup/AeroPython
+        - http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/tree/master/
 - [Section 1-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-2_matplotlib.ipynb) matplotlib
 - [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section2_numpy_scipy_pandas.ipynb) numpy, scipy, pandas
 - [Section 3-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-1_blaze.ipynb) blaze
