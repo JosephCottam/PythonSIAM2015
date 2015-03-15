@@ -15,6 +15,15 @@ Links to the static materials:
 - [Section 3-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-2_bokeh.ipynb) bokeh
 - [Section 4](https://github.com/JosephCottam/PythonSIAM2015/blob/master/VTK_PV.pdf?raw=true) VTK, ParaView
 
+*Extra reading: Python cloud*
+- [Apache Spark](http://spark.apache.org/docs/latest/api/python/)
+- [Amazon S3](http://docs.pythonboto.org/en/latest/)
+- [Google App](https://cloud.google.com/appengine/docs/python/gettingstartedpython27/introduction)
+- [Mongo DB](http://api.mongodb.org/python/current/)
+- [Cloudera Impala](https://github.com/cloudera/impyla)
+- [sqlalchemy](http://www.sqlalchemy.org/)
+- [Apache Libcloud](https://libcloud.apache.org/)
+
 All notebooks have been created in 2.7 Python. The virtual machine has
 latest Anaconda Python and latest ParaView/VTK, as of March 12, 2015.
 
