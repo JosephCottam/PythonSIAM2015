@@ -11,6 +11,9 @@ Links to the static materials:
         - http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/tree/master/
 - [Section 1-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section1-2_matplotlib.ipynb) matplotlib
 - [Section 2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section2_numpy_scipy_pandas.ipynb) numpy, scipy, pandas
+    - Addtional links:
+        - [Numba](http://numba.pydata.org/)
+        - [Numba Performance](http://continuum.io/blog/numba_performance)
 - [Section 3-1](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-1_blaze.ipynb) blaze
 - [Section 3-2](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section3-2_bokeh.ipynb) bokeh
 - [Section 4](https://github.com/JosephCottam/PythonSIAM2015/blob/master/VTK_PV.pdf?raw=true) VTK, ParaView
