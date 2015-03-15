@@ -1,5 +1,5 @@
-Python @ SIAM 2015
-=================
+Python @ SIAM CSE 2015
+======================
 
 Links to the static materials:
 - [Section 0](http://nbviewer.ipython.org/github/JosephCottam/PythonSIAM2015/blob/master/Section0_intro.ipynb) Introduction
